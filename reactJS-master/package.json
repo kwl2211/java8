@@ -1,0 +1,19 @@
+{
+  "name": "node_wipro_beginner",
+  "version": "1.0.0",
+  "description": "publish test",
+  "main": "modules.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prafful",
+  "license": "ISC",
+  "keywords": [
+    "prafful",
+    "wipro",
+    "node",
+    "beginner"
+  ]
+}
